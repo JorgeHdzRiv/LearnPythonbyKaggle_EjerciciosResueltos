@@ -13,7 +13,7 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 
 ## Acceso a los cuadernos realizados
 
-| Cuaderno | Práctica | Link al repo |
+| Cuaderno | Práctica:Leccion | Link al notebook |
 | ------------- |:-------------:| -----:|
-|`python_exercises_basic`|1|[Link al notebook](./notebooks/python-exercises-basic.ipynb)|
+|`python_exercises_basic`|**1:Hello,Python**|[Link al notebook](./notebooks/python-exercises-basic.ipynb)|
 
