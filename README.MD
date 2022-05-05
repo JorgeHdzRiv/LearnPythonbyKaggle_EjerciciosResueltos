@@ -26,4 +26,5 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 | Cuaderno | Práctica:Leccion | Link al notebook |
 | ------------- |:-------------:| -----:|
 |`python_exercises_basic`|**1:Hello,Python**|[Link al notebook](./exercises/python-exercises-basic.ipynb)|
+|`exercise-functions-and-help`|**2:Functions and getting help**|[Link al notebook](./exercises/exercise-functions-and-getting-help.ipynb)|
 
