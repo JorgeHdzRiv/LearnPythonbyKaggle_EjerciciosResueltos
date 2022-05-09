@@ -33,4 +33,7 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 |`python_exercises_basic`|**1:Hello,Python**|[Link al notebook](./exercises/python-exercises-basic.ipynb)|
 |`exercise-functions-and-help`|**2:Functions and getting help**|[Link al notebook](./exercises/exercise-functions-and-getting-help.ipynb)|
 |`exercise-booleans-and-conditionals`|**3:Booleans and conditionals**|[Link al notebook](./exercises/exercise-booleans-and-conditionals.ipynb)|
+|`exercise-lists`|**4:Lists**|[Link al notebook](./exercises/exercise-lists.ipynb)|
+
+
 
