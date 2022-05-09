@@ -21,6 +21,10 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 |`hello-python`|**1:Hello,Python**|[Link al notebook](./notebooks_guide/hello-python.ipynb)|
 |`functions-and-help`|**2:Functions and getting help**|[Link al notebook](./notebooks_guide/functions-and-getting-help.ipynb)
 |`booleans_and_conditionals`|**3:Booleans and conditionals**|[Link al notebook](./notebooks_guide/booleans-and-conditionals.ipynb)
+|`list`|**4:Lists**|[Link al notebook](./notebooks_guide/lists.ipynb)
+
+
+
 
 ## Acceso a los cuadernos realizados por mi (ejercicios propuesto por kaggle)
 
