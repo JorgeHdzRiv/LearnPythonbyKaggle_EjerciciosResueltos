@@ -19,7 +19,8 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 | Cuaderno | Práctica:Leccion | Link al notebook |
 | ------------- |:-------------:| -----:|
 |`hello-python`|**1:Hello,Python**|[Link al notebook](./notebooks_guide/hello-python.ipynb)|
-|`functions-and-help`|**2:Functions and getting help**|[Link al notebook](./notebooks_guide/functions-and-getting-help.ipynb)|
+|`functions-and-help`|**2:Functions and getting help**|[Link al notebook](./notebooks_guide/functions-and-getting-help.ipynb)
+|`booleans_and_conditionals`|**3:Booleans and conditionals**|[Link al notebook](./notebooks_guide/booleans-and-conditionals.ipynb)
 
 ## Acceso a los cuadernos realizados por mi (ejercicios propuesto por kaggle)
 
