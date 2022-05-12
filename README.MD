@@ -22,6 +22,7 @@ Ampliamente te recomiendo visitar el curso donde se da la teoria y bases para po
 |`functions-and-help`|**2:Functions and getting help**|[Link al notebook](./notebooks_guide/functions-and-getting-help.ipynb)
 |`booleans_and_conditionals`|**3:Booleans and conditionals**|[Link al notebook](./notebooks_guide/booleans-and-conditionals.ipynb)
 |`list`|**4:Lists**|[Link al notebook](./notebooks_guide/lists.ipynb)
+|`loops-list-comprehensions`|**5:Loops-list-comprehensions**|[Link al notebook](./notebooks_guide/loops-and-list-comprehensions.ipynb)
 
 
 
